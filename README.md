@@ -27,7 +27,7 @@
 <a href="https://twitter.com/joseph alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseph alc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joseph alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph alc" height="30" width="40" /></a>
 <a href="https://instagram.com/joseph alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joseph alc" height="30" width="40" /></a>
-<a href="https://www.behance.net/joseph alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="joseph alc" height="30" width="40" /></a>
+        <a href="https://www.behance.net/josephalc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="joseph alc" height="30" width="40" /></a>
 <a href="https://discord.gg/joseph alc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joseph alc" height="30" width="40" /></a>
 </p>
 <!--- trophy (start) -->
